@@ -1,3 +1,7 @@
+bigmのバグ
+--CREATE EXTENSION IF NOT EXISTS pg_bigm;
+
+
 ![cover-v5-optimized](./images/GitHub_README_if.png)
 
 <p align="center">
