@@ -1,5 +1,11 @@
-bigmのバグ
---CREATE EXTENSION IF NOT EXISTS pg_bigm;
+--ALTER SYSTEM SET log_statement = 'all';  
+--SELECT PG_RELOAD_CONF();  
+
+--ALTER SYSTEM RESET log_statement;  
+--SELECT PG_RELOAD_CONF();  
+
+bigmのバグ  
+--CREATE EXTENSION IF NOT EXISTS pg_bigm;  
 
 
 ![cover-v5-optimized](./images/GitHub_README_if.png)
